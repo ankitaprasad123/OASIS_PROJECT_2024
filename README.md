@@ -1,2 +1,2 @@
 # OASIS_PROJECT_2024
-My Internship project in 2024.
+My Second Internship in 2024.
